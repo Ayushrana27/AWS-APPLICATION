@@ -1,1 +1,0 @@
-ssh -i your-key.pem ubuntu@<EC2-Public-IP>
